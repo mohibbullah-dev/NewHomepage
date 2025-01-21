@@ -40,7 +40,7 @@ font-weight: 800;
 .s_text{
   font-size: 14px;
   font-weight: 400;
-  color: var(--Grayish-blue);
+  color: var(--Darkgrayish-blue);
 }
 
 #roler{
@@ -167,7 +167,7 @@ grid-area: box4;
   border: none;
   margin: 0;
  margin-top: 20px;
-background: var(--Soft-orange);
+background: var(--Soft-red);
 display: flex;
 justify-content: center;
 align-items: center;
@@ -226,7 +226,7 @@ flex-direction: column;
 
 
 .last_box_p1{
-  color: var(--Soft-orange);
+  color: var(--Soft-red);
 }
 
 .last_box_p2{
